@@ -1,1 +1,1 @@
-i'm learning  git now in linux
+i'm learning  git now  linux
