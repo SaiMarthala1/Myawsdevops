@@ -37,4 +37,9 @@ apt-get install git
 
 AWS------ DEVOPS ----  LEARNING
 
+
+GITCMD: git ADD , COMMIT, PUSH , DIFF ,LOG 
+
+
+
 please learn GITHUB
