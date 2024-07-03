@@ -39,7 +39,42 @@ AWS------ DEVOPS ----  LEARNING
 
 
 GITCMD: git ADD , COMMIT, PUSH , DIFF ,LOG 
-
-
-
 please learn GITHUB
+
+========================================================
+
+learning merge and rebase now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
